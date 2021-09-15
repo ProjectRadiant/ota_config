@@ -1,13 +1,13 @@
 {
     "response": [
       {
-        "datetime": 1629218768,
-        "filename": "ProjectRadiant-1.0-GAPPS-laurel_sprout-20210817-1647-OFFICIAL.zip",
-	"id": "fe94f2b3da5e0f25677748fb1fcecef0",
+        "datetime": 1631616061,
+        "filename": "ProjectRadiant-1.1-GAPPS-laurel_sprout-20210914-1043-OFFICIAL.zip",
+	"id": "738448c5ecd32d692e8d271a49ddcd1b",
         "romtype": "OFFICIAL",
-        "size": 1160578025,
-        "url": "https://sourceforge.net/projects/projectradiant/files/eleven/laurel_sprout/gapps/ProjectRadiant-1.0-GAPPS-laurel_sprout-20210817-1647-OFFICIAL.zip/download",
-        "version": "1.0"
+        "size": 1160329938,
+        "url": "https://sourceforge.net/projects/projectradiant/files/eleven/laurel_sprout/gapps/ProjectRadiant-1.1-GAPPS-laurel_sprout-20210914-1043-OFFICIAL.zip/download",
+        "version": "1.1"
       }
     ]
 }
